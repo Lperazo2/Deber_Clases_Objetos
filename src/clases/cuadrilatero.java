@@ -5,7 +5,7 @@ public class cuadrilatero {
         int r1 = lado*4;
         int r2 = lado*lado;
         System.out.println(" ");
-        System.out.println("--------------------------------");
+        System.out.println("---------------------------------");
         System.out.println(" ");
         System.out.println("El cuadrilatero tiene como lado el valor de "+lado);
         System.out.println("El prerimetro del cuadrilatero es "+r1);

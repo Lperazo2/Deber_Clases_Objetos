@@ -15,5 +15,6 @@ public class matematicas {
         ob2.lado=12;
         ob2.area();
     }
-   
+    
+    
 }
